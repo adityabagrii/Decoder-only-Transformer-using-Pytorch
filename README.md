@@ -1,2 +1,2 @@
 # Decoder-only-Transformer-using-Pytorch
-Implemented a decoder only transformer architecture for language modeling and text generation from scratch using just Pytorch library
+Implemented a decoder only transformer architecture for language modeling and text generation from scratch using just Pytorch library refering to the Task 1 of the report
